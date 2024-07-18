@@ -28,6 +28,7 @@ My passion for data has taken a new and exciting turn, and I'm eager to leverage
 Let's transform raw data into actionable insights for your organization!
 
 
-My Machine Learning projects:
+**My Machine Learning projects:**
 
-See my [tip prediction](https://github.com/sdsouto/nyc-tlc-tip-prediction).
+See my [tip prediction](https://github.com/sdsouto/nyc-tlc-tip-prediction).\
+More to come, stay tuned...
