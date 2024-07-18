@@ -14,7 +14,7 @@ Let's explore how data can unlock opportunities!
 
 *** or this one***
 
-Welcome! I'm Sharon Souto, a data analyst with a unique background in data engineering. After [Number] years building and maintaining data pipelines, I've transitioned my expertise to unlock the insights hidden within that data. My experience gives me a deep understanding of the data lifecycle, from its raw state to its analytical potential.
+Welcome! I'm Sharon Souto, a data analyst with a unique background in data engineering. After 20+ years building and maintaining data pipelines, I've transitioned my expertise to unlock the insights hidden within that data. My experience gives me a deep understanding of the data lifecycle, from its raw state to its analytical potential.
 
 This portfolio showcases projects where I've leveraged my skills to:
 
