@@ -1,5 +1,5 @@
 # Portfolio | Sharon D. Souto
-Welcome! I'm Sharon Souto, a data analyst (and former data engineer!) with a passion for extracting insights and transforming data into actionable knowledge.  I leverage my skills in data wrangling, analysis, and visualization to solve complex business problems and drive informed decision-making.
+Welcome! I'm Sharon Souto, a data analyst (and former data engineer and architect!) with a passion for extracting insights and transforming data into actionable knowledge.  I leverage my skills in data wrangling, analysis, and visualization to solve complex business problems and drive informed decision-making.  After years of building and maintaining data pipelines, I've transitioned my expertise to unlock the insights hidden within that data. My experience gives me a deep understanding of the data lifecycle, from its raw state to its analytical potential.
 
 This portfolio showcases a selection of my projects that demonstrate my ability to:
 
@@ -12,7 +12,7 @@ I'm constantly seeking new challenges and opportunities to expand my data analys
 
 Let's explore how data can unlock opportunities!
 
-**My Machine Learning projects:**
+**My machine learning projects:**
 
 See my [tip prediction](https://github.com/sdsouto/nyc-tlc-tip-prediction).\
 More to come, stay tuned...
