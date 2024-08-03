@@ -14,5 +14,5 @@ Let's explore how data can unlock opportunities!
 
 **My machine learning projects:**
 
-See my project for [Predicting Taxi Gratuities in New York City](https://github.com/sdsouto/nyc-tlc-tip-prediction).\
+See my project for [predicting taxi gratuities in New York City](https://github.com/sdsouto/nyc-tlc-tip-prediction).\
 More to come, stay tuned...
