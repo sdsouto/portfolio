@@ -14,6 +14,7 @@ Let's explore how data can unlock opportunities!
 
 **My machine learning projects:**
 
-See my [predictive models to optimize revenue for the New York Taxi and Limousine Commission and its drivers](https://github.com/sdsouto/nyc-tlc-tip-prediction).
+* See my [predictive models to optimize revenue for the New York Taxi and Limousine Commission and its drivers](https://github.com/sdsouto/nyc-tlc-tip-prediction).
+* Feeling curious? Explore my [modeling sandbox](https://github.com/sdsouto/standalone-models) and see what I've been playing around with.
 
 More to come, stay tuned...
