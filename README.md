@@ -17,4 +17,7 @@ Let's explore how data can unlock opportunities!
 * See my [predictive models to optimize revenue for the New York Taxi and Limousine Commission and its drivers](https://github.com/sdsouto/nyc-tlc-tip-prediction).
 * Feeling curious? Explore my [modeling sandbox](https://github.com/sdsouto/standalone-models) and see what I've been playing around with.
 
+**My data warehouse projects:**
+* Proving that powerful, free, and low-cost data solutions are accessible to everyone, including non-profit organizations: [SQL Data Warehouse Project](https://github.com/sdsouto/sql-data-warehouse-project).
+
 More to come, stay tuned...
