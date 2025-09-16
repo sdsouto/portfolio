@@ -12,12 +12,16 @@ I'm constantly seeking new challenges and opportunities to expand my data analys
 
 Let's explore how data can unlock opportunities!
 
+**My SQL projects:**
+* Proving that powerful, free, and low-cost data solutions are accessible to everyone, including non-profit organizations: [SQL Data Warehouse Project](https://github.com/sdsouto/sql-data-warehouse-project).
+  
+* [SQL Data Analytics Project](https://github.com/sdsouto/sql-data-analytics-project): A collection of SQL queries designed to help with data analysis and business intelligence to quickly explore, segment, and analyze data.  Each script addresses a distinct analytical domain.
+  
 **My machine learning projects:**
 
 * See my [predictive models to optimize revenue for the New York Taxi and Limousine Commission and its drivers](https://github.com/sdsouto/nyc-tlc-tip-prediction).
 * Feeling curious? Explore my [modeling sandbox](https://github.com/sdsouto/standalone-models) and see what I've been playing around with.
 
-**My data warehouse projects:**
-* Proving that powerful, free, and low-cost data solutions are accessible to everyone, including non-profit organizations: [SQL Data Warehouse Project](https://github.com/sdsouto/sql-data-warehouse-project).
+
 
 More to come, stay tuned...
